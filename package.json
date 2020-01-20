@@ -43,9 +43,15 @@
     "npm": ">= 4.0.0"
   },
   "dependencies": {
-    "yeoman-generator": "^2.0.1",
-    "chalk": "^2.1.0",
-    "yosay": "^2.0.1"
+    "bluebird": "^3.7.2",
+    "chalk": "^3.0.0",
+    "ejs": "^3.0.1",
+    "lodash": "^4.17.15",
+    "mkdirp": "^0.5.1",
+    "underscore.inflections": "^0.2.1",
+    "underscore.string": "^3.3.5",
+    "yeoman-generator": "^4.4.0",
+    "yosay": "^2.0.2"
   },
   "jest": {
     "testEnvironment": "node"
