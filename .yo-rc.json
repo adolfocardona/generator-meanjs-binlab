@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Adolfo Cardona",
+      "authorEmail": "acardona1987@gmail.com",
+      "authorUrl": "https://github.com/adolfocardona"
+    }
+  }
+}
